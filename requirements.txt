@@ -1,0 +1,7 @@
+python-dateutil
+flask
+gunicorn
+pmdarima
+statsmodels
+pandas
+numpy
